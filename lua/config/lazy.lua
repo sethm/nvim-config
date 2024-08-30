@@ -32,8 +32,9 @@ require("lazy").setup({
 			},
 		},
 		-- import extra modules
-		{ import = "lazyvim.plugins.extras.lang.rust" },
+		{ import = "lazyvim.plugins.extras.lang.clangd" },
 		{ import = "lazyvim.plugins.extras.lang.json" },
+		{ import = "lazyvim.plugins.extras.lang.rust" },
 		-- import your plugins
 		{ import = "plugins" },
 	},
