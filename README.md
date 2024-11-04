@@ -2,6 +2,10 @@
 
 Ever evolving. Not a good example for anyone.
 
+# Usage
+
+`git clone [this-repo] ~/.config/nvim`
+
 # License
 
 Copyright 2024, Seth J Morabito &lt;web@loomcom.com&gt;
